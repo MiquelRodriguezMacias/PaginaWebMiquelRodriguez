@@ -2,6 +2,10 @@ body{
     background-color: rgb(175, 237, 246);
 }
 
+h1{
+    text-align: center;
+}
+
 table{
     background-color: rgb(255, 255, 255);
     width: 80%;
@@ -11,5 +15,16 @@ table{
 
 th,td{
     border: 1px solid black;
-    
+    padding: 8px;
+    text-align: center;
+}
+
+th{
+    background-color: rebeccapurple;
+    color: white;
+    font-style: italic;
+}
+
+.hora{
+    background-color: turquoise;
 }
