@@ -27,4 +27,16 @@ th{
 
 .hora{
     background-color: turquoise;
+    width: 120px;
+    color: white;
+}
+
+.patio{
+    background-color: rgb(255, 0, 242);
+    color: white;
+    text-transform: uppercase;
+}
+
+.ofimatica{
+    background-color: aquamarine;
 }
