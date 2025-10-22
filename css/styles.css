@@ -75,8 +75,6 @@ th{
 
 ul{
     list-style-type: none;
-}
-
-.Llegenda{
-    justify-content: center;
+    margin: auto;
+    justify-items: auto;
 }
