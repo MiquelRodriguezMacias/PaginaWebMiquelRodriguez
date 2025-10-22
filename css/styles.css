@@ -39,28 +39,43 @@ th{
 
 .ofimatica{
     background-color: aquamarine;
+     width: 80%;
+    margin: auto;
 }
 
 .sistemes{
     background-color: tan;
+     width: 80%;
+    margin: auto;
+    border-collapse: collapse;
 }
 
 .angles{
     background-color: coral;
+     width: 80%;
+    margin: auto;
 }
 
 .xarxes{
     background-color: beige;
+     width: 80%;
+    margin: auto;
 }
 
 .muntatge{
     background-color: rgb(229, 88, 88);
+     width: 80%;
+    margin: auto;
 }
 
 .digi{
     background-color: aliceblue;
+     width: 80%;
+    margin: auto;
 }
 
 .ipo{
     background-color: cadetblue;
+     width: 80%;
+    margin: auto;
 }
